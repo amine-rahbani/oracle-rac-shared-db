@@ -4,7 +4,7 @@
 This repository provides a **step-by-step guide** for setting up **Oracle Real Application Clusters (RAC)** on VirtualBox. The project demonstrates **high availability, load balancing, and fault tolerance** using **Oracle Clusterware, ASM, and shared storage**.  
 
 📄 **[Download Full Report (PDF)](Rapport_cluster.pdf)**  
-📄 **[Oracle RAC Installation Guide](Oracle_RAC_Installation_on_VirtualBox.pdf)**  
+📄 **[Oracle RAC Installation Guide](Oracle-RAC-Installation-on-VirtualBox.pdf)**  
 
 ## 🚀 Key Features  
 ✅ **High Availability** – Ensures database uptime even if a node fails.  
@@ -13,10 +13,9 @@ This repository provides a **step-by-step guide** for setting up **Oracle Real A
 ✅ **Scalability** – Additional nodes can be added without downtime.  
 
 ## 📹 Live Demonstration  
-🎥 **[Watch the Oracle RAC Demo](https://youtu.be/***********)** *(Replace with actual link)*  
+🎥 **[Watch the Oracle RAC Demo](https://youtu.be/***********)** 
 
 ## 🏗️ Project Contents  
 - **Installation Guide** – Covers all steps for deploying Oracle RAC on VirtualBox.  
 - **Configuration Details** – Explains network, storage, and node setup.  
 - **Test Results & Analysis** – Evaluates cluster performance and failover mechanisms.  
-
